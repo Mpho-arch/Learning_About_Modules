@@ -1,7 +1,6 @@
 {
   "name": "learning_about_modules",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "greet.js",
   "scripts": {
@@ -12,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0"
-  }
+  },
+  "description": ""
 }
